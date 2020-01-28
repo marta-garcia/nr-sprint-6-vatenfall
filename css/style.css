@@ -467,7 +467,7 @@ a {
 
   .header {
     display: grid;
-    grid-template-columns: 18% 40% 20% 20%;
+    grid-template-columns: 18% 40% 10% 20%;
     justify-items: center;
     align-items: center;
     justify-content: center;
