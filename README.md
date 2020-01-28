@@ -1,2 +1,3 @@
-# nr-sprint-6-vattenfall
+# nr-sprint-6-vatenfall
+
 Copy of the Vattenfall website

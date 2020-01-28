@@ -134,7 +134,7 @@ a {
 
 .header .menu-icon {
   width: 30%;
-  height: 50%;
+  /* height: 50%; */
   display: none;
 }
 
@@ -467,17 +467,17 @@ a {
 
   .header {
     display: grid;
-    grid-template-columns: 15% 55% 10% 15%;
+    grid-template-columns: 18% 40% 20% 20%;
     justify-items: center;
     align-items: center;
     justify-content: center;
-    padding: 0 4% 0 4%;
+    padding: 0 2%;
   }
 
   .header .logo {
-    width: 35%;
-    align-self: start;
-    justify-self: center;
+    width: 45%;
+    align-self: center;
+    justify-self: end;
   }
 
   .header .menu-icon {
@@ -487,7 +487,7 @@ a {
   }
 
   .header .search-icon {
-    width: 11%;
+    width: 10%;
     justify-self: center;
   }
   .navbar {
