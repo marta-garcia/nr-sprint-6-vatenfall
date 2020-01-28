@@ -467,7 +467,7 @@ a {
 
   .header {
     display: grid;
-    grid-template-columns: 18% 40% 10% 20%;
+    grid-template-columns: 20% 60% 20%;
     justify-items: center;
     align-items: center;
     justify-content: center;
@@ -477,7 +477,7 @@ a {
   .header .logo {
     width: 45%;
     align-self: center;
-    justify-self: end;
+    justify-self: center;
   }
 
   .header .menu-icon {
