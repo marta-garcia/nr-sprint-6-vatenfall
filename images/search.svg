@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="23px" viewBox="0 0 22 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>SEARCH</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="vf_digital_manual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1327.000000, -79.000000)">
+        <g id="MENU" transform="translate(313.000000, 79.000000)">
+            <g id="SEARCH" transform="translate(1014.000000, 0.000000)">
+                <path d="M14,15 L21,22" id="Stroke-1" stroke="#000000" stroke-width="2.49604348"></path>
+                <g id="Group-5" fill="#000000">
+                    <path d="M9.30698764,0.213519565 C4.1669427,0.213519565 -2.35955056e-05,3.07017174 -2.35955056e-05,9.39421522 C-2.35955056e-05,15.7182587 4.1669427,18.5749109 9.30698764,18.5749109 C14.4470326,18.5749109 18.6139989,15.7182587 18.6139989,9.39421522 C18.6139989,3.07017174 14.4470326,0.213519565 9.30698764,0.213519565 M9.30698764,2.70956304 C11.8630888,2.70956304 16.1511,3.57808478 16.1511,9.39421522 C16.1511,15.2103457 11.8630888,16.0786283 9.30698764,16.0786283 C6.75088652,16.0786283 2.46287528,15.2103457 2.46287528,9.39421522 C2.46287528,3.57808478 6.75088652,2.70956304 9.30698764,2.70956304" id="Fill-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
